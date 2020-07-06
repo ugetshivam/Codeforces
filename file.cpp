@@ -43,8 +43,7 @@ while(t--)
 				break;
 			}
 		}
-		if(ok)
-			break;
+		
 	}
 // 	int count_1= 0, count_2 = 0, cur = 0;
 // 	bool cond = false;
