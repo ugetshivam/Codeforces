@@ -45,6 +45,7 @@ while(t--)
 		}
 		
 	}
+	//added a comment
 // 	int count_1= 0, count_2 = 0, cur = 0;
 // 	bool cond = false;
 // 	if(s[0] == '+'){
