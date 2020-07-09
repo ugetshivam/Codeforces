@@ -16,8 +16,18 @@ int main(){
     // for writing output to output.txt
     freopen("outputf.in", "w", stdout);
 #endif
-int x;
-cin >> x;
-cout << x;
+int t;
+cin >> t;
+while(t--){
+	int n;
+	cin >> n;
+	if(n%4 == 0)
+		cout << "YES" << '\n';
+	else
+		cout << "NO" << '\n';
+}
+    
+
     return 0;
+
 }
